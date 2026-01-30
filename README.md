@@ -169,7 +169,7 @@ This project is suitable for:
 ## 👤 Author
 
 **Khairunnisya Lubis**
-Rust & Backend Learner 🚀
+Rust & Backend Learner. 🚀
 
 ---
 
