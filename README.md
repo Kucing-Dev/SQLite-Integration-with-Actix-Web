@@ -17,7 +17,7 @@ This project is a simple example of **integrating SQLite with Actix Web using Ru
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack. 
 
 * **Rust**
 * **Actix Web 4**
